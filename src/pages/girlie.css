@@ -1,0 +1,13 @@
+.girlie-page{
+    background-color: #4e1818;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    flex-direction: column;
+}
+.girlie-img{
+    width: 30%;
+    border-radius: 10px;
+}
